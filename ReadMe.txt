@@ -1,37 +1,33 @@
 ========================================================================
-    CONSOLE APPLICATION : [!output PROJECT_NAME] Project Overview
+                Saheser - 2D - Platformer - C++ - OpenGL
 ========================================================================
+//-- TRAILER LINK -- https://vimeo.com/277635549 --//
 
-AppWizard has created this [!output PROJECT_NAME] application for you.
+----------------------PROJECT INFORMATION BELOW---------------------------
 
-This file contains a summary of what you will find in each of the files that
-make up your [!output PROJECT_NAME] application.
+Saheser is a follow up game of 'The Sweet Darkness' (https://github.com/Cem-Alagozlu/The-Sweet-Darkness-2D-platformer)
+The game was programmed in a custom engine, heavily based on OpenGL and SDL, Programmed in C++.
+Its an improvement (code-wise) than the previous game :) 
 
+-----------------------GAME INFORMATION BELOW--------------------------- 
 
-    This is the main project file for VC++ projects generated using an Application Wizard.
-    It contains information about the version of Visual C++ that generated the file, and
-    information about the platforms, configurations, and project features selected with the
-    Application Wizard.
+//-- Storyline --// 
+Saheser is a 2D platformer game about a robot who tries to find his creator and his "father". 
+This game is a sequel to my first 2D game The Sweet Darkness. 
 
-    This is the filters file for VC++ projects generated using an Application Wizard. 
-    It contains information about the association between the files in your project 
-    and the filters. This association is used in the IDE to show grouping of files with
-    similar extensions under a specific node (for e.g. ".cpp" files are associated with the
-    "Source Files" filter).
+//-- Mechanics --// 
+Player can:
+- Jump
+- Walk
+- Climb
+- Activate platforms
+- Shoot
+- Buy / Improve stats
 
-    This is the main application source file.
+//-- Implemented --//
+- Simple A.I. 
+- Boss - Fight
+- U.I. 
+- 
+- 
 
-/////////////////////////////////////////////////////////////////////////////
-Other standard files:
-
-StdAfx.h, StdAfx.cpp
-    These files are used to build a precompiled header (PCH) file
-    named [!output PROJECT_NAME].pch and a precompiled types file named StdAfx.obj.
-
-/////////////////////////////////////////////////////////////////////////////
-Other notes:
-
-AppWizard uses "TODO:" comments to indicate parts of the source code you
-should add to or customize.
-
-/////////////////////////////////////////////////////////////////////////////
